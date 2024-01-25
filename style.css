@@ -15,6 +15,11 @@
   width: 100%;
 }
 
+.attribution {
+  text-decoration: none;
+  color: #fff;
+}
+
 * {
   margin: 0;
   padding: 0;
